@@ -1,4 +1,4 @@
-# ✈️ Flight Booking System (Java)
+# ✈️ Pinnacle Internship Task 2 Flight Booking System (Java)
 
 ## 📌 Overview
 
